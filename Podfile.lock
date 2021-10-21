@@ -1,0 +1,42 @@
+PODS:
+  - FeedKit (9.1.2)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - Nuke (10.4.1)
+  - PromiseKit (6.15.3):
+    - PromiseKit/CorePromise (= 6.15.3)
+    - PromiseKit/Foundation (= 6.15.3)
+    - PromiseKit/UIKit (= 6.15.3)
+  - PromiseKit/CorePromise (6.15.3)
+  - PromiseKit/Foundation (6.15.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.15.3):
+    - PromiseKit/CorePromise
+  - SwiftLint (0.44.0)
+
+DEPENDENCIES:
+  - FeedKit
+  - Kingfisher (~> 5.0)
+  - Nuke
+  - PromiseKit (~> 6.8)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - FeedKit
+    - Kingfisher
+    - Nuke
+    - PromiseKit
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  FeedKit: 71653273ab08e618cd6fd1301ca08fc02dca6a9e
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  Nuke: fa2d83b3ee99bb88eccc62ab6c7590e207b50096
+  PromiseKit: 3b2b6995e51a954c46dbc550ce3da44fbfb563c5
+  SwiftLint: e96c0a8c770c7ebbc4d36c55baf9096bb65c4584
+
+PODFILE CHECKSUM: 7747f98216b2d7808bdbbbe6cf7488616324249f
+
+COCOAPODS: 1.9.1

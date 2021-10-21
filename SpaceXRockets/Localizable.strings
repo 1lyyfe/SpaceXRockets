@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  SpaceXRockets
+
+  Created by Haider Ashfaq on 20/10/2021.
+  
+*/
+
+"NUMBER_OF_SEARCH_RESULTS" = "Number of results: %d";
+"DESCRIPTION_NOT_AVAILABLE" = "Description not available";
+"ACTIVE" = "Active";
+"NOT_ACTIVE" = "Not Active";
+"TYPE" = "Type:";
+"STAGES" = "Stages:";
+"BOOSTERS" = "Boosters:";
+"COST_PER_LAUNCH" = "Cost Per Launch:";
+"SUCCESS_PCT" = "Success PCT:";
+"FIRST_FLIGHT" = "First Flight:";
+
+
+
+
